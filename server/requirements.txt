@@ -1,6 +1,6 @@
-Werkzeug==0.16.1
+Werkzeug==3.0.3
 argparse==1.2.1
-Flask==0.12.4
+Flask==2.2.5
 Flask-Login==0.3.2
 Flask-Mail==0.9.1
 Flask-Migrate==1.8.1
@@ -10,12 +10,12 @@ Flask-Testing==0.7.1
 Flask-WTF==0.14.2
 bcrypt==3.1.4
 python-dateutil==2.2
-celery==4.3.0
+celery==5.2.2
 redis==3.2.1
-requests==2.21.0
+requests==2.32.2
 xmltodict==0.12.0
 uWSGI==2.0.18
-pymongo==3.7.2
+pymongo==4.6.3
 hpfeeds-threatstream==1.1
 pygal==2.4.0
 hpfeeds-logger==0.0.7.7
